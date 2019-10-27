@@ -2,8 +2,8 @@
   "name": "myblog",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
-  "homepage": "https://github.io/2047584/MyBlog#readme",
+  "main": "index.html",
+  "homepage": "https://github.io/2047584/MyBlog",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "deploy": "gh-pages -d dist"
